@@ -119,20 +119,6 @@ Rangkaar-DBMS
 
 ---
 
-## 📸 Project Screenshots
-
-Project screenshots are available in the **Screenshots** folder.
-
-Included screenshots:
-- Database Structure
-- Artists Table
-- Customers Table
-- Function Output
-- Stored Procedure Output
-- View Output
-
----
-
 ## 📊 Entity Relationship Diagram (ERD)
 
 The complete database schema is available in **ERD.png**.
@@ -158,7 +144,3 @@ Through this project, I gained practical experience in:
 **Duaa Nadeem**
 
 ---
-
-## 📄 License
-
-This project was developed for educational purposes as part of a university Database Management Systems course.
